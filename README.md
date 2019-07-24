@@ -1,2 +1,2 @@
 # MasterDinner
-It was just a repositry
+It was just a repositry of All
